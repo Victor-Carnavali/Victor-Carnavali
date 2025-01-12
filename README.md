@@ -2,6 +2,8 @@
 Hi there! 👋
 I’m a Computer Science student with a passion for technology. My current focus is on learning Java. I thrive on tackling complex challenges that push me to learn, grow, and develop creative solutions to tough problems.
 
+![coffeeWork](https://github.com/user-attachments/assets/818c3f31-b3e0-436b-843c-1d668f5b8827)
+
 # Tools:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
