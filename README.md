@@ -2,6 +2,8 @@
 Hi there! 👋
 I’m a Computer Science student with a passion for technology. My current focus is on learning Java. I thrive on tackling complex challenges that push me to learn, grow, and develop creative solutions to tough problems.
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
+
 ![coffeeWork](https://github.com/user-attachments/assets/818c3f31-b3e0-436b-843c-1d668f5b8827)
 
 # Tools:
@@ -27,12 +29,5 @@ I’m a Computer Science student with a passion for technology. My current focus
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Victor-Carnavali&theme=github_dark_dimmed&hide_border=false)<br/>
 
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Victor-Carnavali&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
-
----
-[![](https://visitcount.itsvg.in/api?id=Victor-Carnavali&icon=0&color=1)](https://visitcount.itsvg.in)
