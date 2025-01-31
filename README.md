@@ -2,7 +2,12 @@
 Hi there! 👋
 I’m a Computer Science student with a passion for technology. My current focus is on learning Java. I thrive on tackling complex challenges that push me to learn, grow, and develop creative solutions to tough problems.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
+<a href="https://www.instagram.com/seu_usuario/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/victor-carnavali" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Instagram">
+</a>
 
 ![coffeeWork](https://github.com/user-attachments/assets/818c3f31-b3e0-436b-843c-1d668f5b8827)
 
