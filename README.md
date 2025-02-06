@@ -22,8 +22,7 @@ I’m a Computer Science student with a passion for technology. My current focus
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d6afd6c9-d8f7-462a-9484-6ffa03717d8d"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"/>
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"/>
-
-<br />
+<br/>
 
 
 # GitHub Stats:
