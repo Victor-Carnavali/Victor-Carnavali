@@ -1,10 +1,13 @@
 # Victor Carnavali
-Hi there! 👋
-I’m a Computer Science student with a passion for technology. I thrive on tackling complex challenges that push me to learn, grow, and develop creative solutions to tough problems.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
+Hey there! 👋  
+I’m Victor — a Computer Science student who lives between code, coffee, and breaking things (on purpose… most of the time 😅).  
+I love exploring new technologies, testing different operating systems (currently deep into the Linux world).
 
 ![coffeeWork](https://github.com/user-attachments/assets/818c3f31-b3e0-436b-843c-1d668f5b8827)
+
+### ☕ When I'm not coding...
+You’ll probably find me studying something new, tweaking a design, automating random things just because I can, testing another Linux distro, gaming, or drinking coffee like it’s an Olympic sport.
 
 # Tools:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,3 +32,7 @@ I’m a Computer Science student with a passion for technology. I thrive on tack
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Victor-Carnavali&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+
+### 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
