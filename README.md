@@ -30,9 +30,5 @@ You’ll probably find me studying something new, tweaking a design, automating 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Victor-Carnavali&theme=github_dark_dimmed&hide_border=false)<br/>
 
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Victor-Carnavali&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
-
 ### 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/victor.carnavali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-carnavali/) 
